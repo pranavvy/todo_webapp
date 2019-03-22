@@ -2,7 +2,7 @@ const config = {};
 
 config.host = process.env.HOST || "https://todoapptut.documents.azure.com:443/";
 config.authKey =
-  process.env.AUTH_KEY || "PfjPcTWrsDJBVOxvqrq77Z3ZBdBJd4MirC6STOyeHn74ylHjer7Ox5tNFmUZHpiRkhmB14eX0EUTxSTddZIB4A==";
+  process.env.AUTH_KEY || "gnFGdmspM2ysd9XSCttxA9xRryIp5gflbea4NhEICtTKPfd0CLxkdtsxQPhBJKmMIwO6vvGQL9ZaPCZv8Ju8gg==";
 config.databaseId = "ToDoList";
 config.containerId = "Items";
 
